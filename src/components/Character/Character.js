@@ -201,7 +201,7 @@ function Character({
             </g>
           )}
         </g>
-        {/* HEADS */}
+        {/* HeadS */}
         <g fillRule="evenodd" clipRule="evenodd">
           {head === 0 && (
             <g>

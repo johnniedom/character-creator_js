@@ -4,10 +4,12 @@
 }
 
 .maxWidthWrapper {
+
 }
 
 .header {
   padding-bottom: 64px;
+  max-width: 65%;
 }
 
 .title {
@@ -27,4 +29,6 @@
 }
 
 .controlColumn {
+  max-width: 50%;
+  white-space: nowrap;
 }
